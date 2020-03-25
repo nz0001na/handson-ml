@@ -19,7 +19,7 @@ def prepare_country_stats(oecd_bli, gdp_per_capita):
 
 
 
-file_path = 'D:/000_machine_learning/hands-on-code/1_1/'
+file_path = 'D:/000_machine_learning/hands-on-code/data/'
 oecd_bli = pd.read_csv(file_path + 'oecd_bli_2015.csv', thousands=',')
 gdp = pd.read_csv(file_path + 'gdp_per_capita.csv', thousands=',', delimiter='\t', encoding='latin1', na_values='n/a')
 
