@@ -12,3 +12,4 @@ envrionment:
 * python 3
 * Anaconda3
 * Tensorflow
+* PyTorch
