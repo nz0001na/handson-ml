@@ -1,4 +1,7 @@
+Terms:
 
+* DC-GAN:
+* TGAN: 
 
 * SN-GAN: Spectrally Normalized Generative Adversarial Networks 
 
