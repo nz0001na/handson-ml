@@ -8,11 +8,11 @@
    [[Lipschitz continuity]](https://en.wikipedia.org/wiki/Lipschitz_continuity)
    
 ## SN-GAN: Spectrally Normalized Generative Adversarial Networks
-    [[paper]](https://arxiv.org/abs/1802.05957)
+Spectrally Normalized Generative Adversarial Networks:  [[paper]](https://arxiv.org/abs/1802.05957)
 
-    As its name suggests, SN-GAN normalizes the weight matrices in the discriminator by their corresponding spectral norm, which helps control the Lipschitz constant of the discriminator. As you have learned with WGAN, Lipschitz continuity is important in ensuring the boundedness of the optimal discriminator. In the WGAN case, this makes it so that the underlying W-loss function for the discriminator (or more precisely, the critic) is valid.
+As its name suggests, SN-GAN normalizes the weight matrices in the discriminator by their corresponding spectral norm, which helps control the Lipschitz constant of the discriminator. As you have learned with WGAN, Lipschitz continuity is important in ensuring the boundedness of the optimal discriminator. In the WGAN case, this makes it so that the underlying W-loss function for the discriminator (or more precisely, the critic) is valid.
 
-    As a result, spectral normalization helps improve stability and avoid vanishing gradient problems, such as mode collapse.
+As a result, spectral normalization helps improve stability and avoid vanishing gradient problems, such as mode collapse.
 
 
 
