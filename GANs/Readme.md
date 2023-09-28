@@ -6,7 +6,14 @@
      Temporal Generative Adversarial Nets with Singular Value Clipping (Saito, Matsumoto, & Saito, 2017)
 ## WGAN: Wasserstein GAN
    [[Lipschitz continuity]](https://en.wikipedia.org/wiki/Lipschitz_continuity)
-   
+## WGAN-GP: Wasserstein GAN with Gradient Penalty
+The first paper is the original WGAN paper and the second proposes GP (as well as weight clipping) to WGAN in order to enforce 1-Lipschitz continuity and improve stability.
+
+Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017): [[paper]](https://arxiv.org/abs/1701.07875)
+
+Improved Training of Wasserstein GANs (Gulrajani et al., 2017): [[paper]](https://arxiv.org/abs/1704.00028)
+
+
 ## SN-GAN: Spectrally Normalized Generative Adversarial Networks
 Spectrally Normalized Generative Adversarial Networks:  [[paper]](https://arxiv.org/abs/1802.05957)
 
