@@ -1,6 +1,6 @@
 Terms:
 
-* DC-GAN:
+* DC-GAN: Deep Convolutional GAN
 * TGAN: 
 
 * SN-GAN: Spectrally Normalized Generative Adversarial Networks 
