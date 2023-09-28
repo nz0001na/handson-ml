@@ -5,7 +5,7 @@ Terms:
   
      Temporal Generative Adversarial Nets with Singular Value Clipping (Saito, Matsumoto, & Saito, 2017)
 
-* SN-GAN: Spectrally Normalized Generative Adversarial Networks 
+* SN-GAN: Spectrally Normalized Generative Adversarial Networks  [[paper]](https://arxiv.org/abs/1802.05957)
 
 
 
