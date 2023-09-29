@@ -53,7 +53,7 @@ Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.or
 
 # Some databases
 * MNIST Database: http://yann.lecun.com/exdb/mnist/
-* CelebA:  is a dataset of annotated celebrity images, http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+* CelebFaces Attributes Dataset (CelebA):  is a dataset of annotated celebrity images, http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 
 
