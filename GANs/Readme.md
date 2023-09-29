@@ -60,6 +60,9 @@ Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.or
 FID has overtaken Inception Score (IS)? This paper illustrates the problems with using Inception Score.
 
 A Note on the Inception Score (Barratt and Sharma, 2018): https://arxiv.org/abs/1801.01973
+## Precison & Recall
+Improved Precision and Recall Metric for Assessing Generative Models (Kynkäänniemi, Karras, Laine, Lehtinen, and Aila, 2019): https://arxiv.org/abs/1904.06991
+
 
 # HYPE
 intrigued about human evaluation and HYPE (Human eYe Perceptual Evaluation) of GANs? Learn more about this human benchmark in the paper! 
