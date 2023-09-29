@@ -66,7 +66,7 @@ The StyleGAN2 [[paper]](https://arxiv.org/abs/1912.04958) noted that metric also
 ## Perceptual Similarity
 Like FID, PPL uses the feature embeddings of deep convolutional neural network. Specifically, the distance between two image embeddings as proposed in The Unreasonable Effectiveness of Deep Features as a Perceptual Metric by Zhang et al (CVPR 2018) [[paper]](https://arxiv.org/abs/1801.03924). In this approach, unlike in FID, a VGG16 network is used instead of an InceptionNet.
 
-Perceptual similarity is closely similar to the distance between two feature vectors, with one key difference: the features are passed through a learned transformation, which is trained to match human intuition on image similarity. Specifically, when shown two images with various transformations from a base image, the LPIPS ("Learned Perceptual Image Patch Similarity") metric is meant to have a lower distance for the image that people think is closer. 
+Perceptual similarity is closely similar to the distance between two feature vectors, with one key difference: the features are passed through a learned transformation, which is trained to match human intuition on image similarity. Specifically, when shown two images with various transformations from a base image, the LPIPS ("Learned Perceptual Image Patch Similarity") metric [[code]](https://github.com/richzhang/PerceptualSimilarity) is meant to have a lower distance for the image that people think is closer. 
 
 
 
