@@ -1,4 +1,4 @@
-# Terms:
+# GANs:
 
 ## DC-GAN: Deep Convolutional GAN
 ## TGAN: Temporal Generative Adversarial Nets 
