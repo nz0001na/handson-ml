@@ -28,12 +28,17 @@ As a result, spectral normalization helps improve stability and avoid vanishing 
 Conditional Generative Adversarial Nets(Mirza and Osindero, 2014) [[paper]](https://arxiv.org/abs/1411.1784)
 
 ## InfoGAN
-to generate disentangled outputs, based on the paper:
-
-InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets 
+to generate disentangled outputs, based on the paper: InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets 
  by Chen et. al. [[paper]](https://arxiv.org/abs/1606.03657)
  
  While there are many approaches to disentanglement, this is one of the more widely used and better known.
+
+InfoGAN can be understood like this: you want to separate your model into two parts: 𝑧, corresponding to truly random noise, and 𝑐 corresponding to the "latent code." The latent code 𝑐 which can be thought of as a "hidden" condition in a conditional generator, and you'd like it to have an interpretable meaning. 
+
+Now, you'll likely immediately wonder, how do they get 𝑐 , which is just some random set of numbers, to be more interpretable than any dimension in a typical GAN? The answer is "mutual information": essentially, you would like each dimension of the latent code to be as obvious a function as possible of the generated images. Read on for a more thorough theoretical and practical treatment.
+
+
+
 
 # Some references
 Deconvolution and Checkerboard Artifacts (Odena et al., 2016) :  http://doi.org/10.23915/distill.00003
