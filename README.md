@@ -6,6 +6,7 @@ practice hands-on machine learning
 4. CNN
 5. GANs
 6. Transformers
+7. Python
 
 envrionment:
 * Ubuntu 20.04.5
