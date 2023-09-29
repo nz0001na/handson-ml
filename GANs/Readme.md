@@ -61,6 +61,10 @@ FID has overtaken Inception Score (IS)? This paper illustrates the problems with
 
 A Note on the Inception Score (Barratt and Sharma, 2018): https://arxiv.org/abs/1801.01973
 
+# HYPE
+intrigued about human evaluation and HYPE (Human eYe Perceptual Evaluation) of GANs? Learn more about this human benchmark in the paper! 
+
+HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models (Zhou et al., 2019): https://arxiv.org/abs/1904.01121
 
 
 
