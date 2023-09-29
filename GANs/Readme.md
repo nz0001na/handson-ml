@@ -58,7 +58,8 @@ A Note on the Inception Score (Barratt and Sharma, 2018): https://arxiv.org/abs/
 ## Precison & Recall
 Improved Precision and Recall Metric for Assessing Generative Models (Kynkäänniemi, Karras, Laine, Lehtinen, and Aila, 2019): https://arxiv.org/abs/1904.06991
 
-
+## Perceptual path length (PPL)
+ PPL was a metric that was introduced as part of StyleGAN [[]paper](https://arxiv.org/abs/1812.04948) to evaluate how well a generator manages to smoothly interpolate between points in its latent space. In essence, if you travel between two points images produced by a generator on a straight line in the latent space, it measures the total "jarringness" of the interpolation when you add together the jarringness of each step. In this notebook, you'll walk through the motivation and mechanism behind PPL.
 
 
 # Some references
