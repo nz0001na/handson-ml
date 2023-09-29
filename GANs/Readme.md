@@ -42,9 +42,6 @@ controlling GAN generations using latent space
 
 Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020) [[paper]](https://arxiv.org/abs/1907.10786)
 
-# Some databases
-* MNIST Database: http://yann.lecun.com/exdb/mnist/
-* CelebFaces Attributes Dataset (CelebA):  is a dataset of annotated celebrity images, http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 # Evaluation
 ##  Fréchet distance
@@ -75,10 +72,10 @@ Perceptual similarity is closely similar to the distance between two feature vec
 
 
 
-# Database
-CelebFaces Attributes Dataset (CelebA): http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-
-ImageNet: http://www.image-net.org/
+# Some databases
+* MNIST Database: http://yann.lecun.com/exdb/mnist/
+* CelebFaces Attributes Dataset (CelebA):  is a dataset of annotated celebrity images, http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+* ImageNet: http://www.image-net.org/
 
 
 
