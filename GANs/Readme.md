@@ -42,6 +42,23 @@ controlling GAN generations using latent space
 
 Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020) [[paper]](https://arxiv.org/abs/1907.10786)
 
+# Some databases
+* MNIST Database: http://yann.lecun.com/exdb/mnist/
+* CelebFaces Attributes Dataset (CelebA):  is a dataset of annotated celebrity images, http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+# Evaluation
+##  Fréchet distance
+"The Fréchet distance between multivariate normal distributions" by Dowson and Landau (1982), https://core.ac.uk/reader/82269844
+
+## Fréchet Inception Distance (FID)
+FID has overtaken Inception Score (IS)? This paper illustrates the problems with using Inception Score.
+
+A Note on the Inception Score (Barratt and Sharma, 2018): https://arxiv.org/abs/1801.01973
+
+## Precison & Recall
+Improved Precision and Recall Metric for Assessing Generative Models (Kynkäänniemi, Karras, Laine, Lehtinen, and Aila, 2019): https://arxiv.org/abs/1904.06991
+
+
 
 
 # Some references
@@ -51,17 +68,6 @@ Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017): https://arxiv.org/abs/17
 
 Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.org/abs/1704.00028
 
-# Some databases
-* MNIST Database: http://yann.lecun.com/exdb/mnist/
-* CelebFaces Attributes Dataset (CelebA):  is a dataset of annotated celebrity images, http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-
-# Evaluation
-## Fréchet Inception Distance (FID)
-FID has overtaken Inception Score (IS)? This paper illustrates the problems with using Inception Score.
-
-A Note on the Inception Score (Barratt and Sharma, 2018): https://arxiv.org/abs/1801.01973
-## Precison & Recall
-Improved Precision and Recall Metric for Assessing Generative Models (Kynkäänniemi, Karras, Laine, Lehtinen, and Aila, 2019): https://arxiv.org/abs/1904.06991
 
 
 # HYPE
