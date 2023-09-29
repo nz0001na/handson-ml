@@ -55,7 +55,11 @@ Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.or
 * MNIST Database: http://yann.lecun.com/exdb/mnist/
 * CelebFaces Attributes Dataset (CelebA):  is a dataset of annotated celebrity images, http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
+# Evaluation
+## Fréchet Inception Distance (FID)
+FID has overtaken Inception Score (IS)? This paper illustrates the problems with using Inception Score.
 
+A Note on the Inception Score (Barratt and Sharma, 2018): https://arxiv.org/abs/1801.01973
 
 
 
