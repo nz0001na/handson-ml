@@ -71,6 +71,11 @@ Like FID, PPL uses the feature embeddings of deep convolutional neural network. 
 Perceptual similarity is closely similar to the distance between two feature vectors, with one key difference: the features are passed through a learned transformation, which is trained to match human intuition on image similarity. Specifically, when shown two images with various transformations from a base image, the LPIPS ("Learned Perceptual Image Patch Similarity") metric [[code]](https://github.com/richzhang/PerceptualSimilarity) is meant to have a lower distance for the image that people think is closer. 
 
 
+# Bias
+Machine Bias (Angwin, Larson, Mattu, and Kirchner, 2016): https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+
+
+
 
 # Some databases
 * MNIST Database: http://yann.lecun.com/exdb/mnist/
