@@ -61,6 +61,10 @@ Improved Precision and Recall Metric for Assessing Generative Models (Kynkäänn
 ## Perceptual path length (PPL)
  PPL was a metric that was introduced as part of StyleGAN [[]paper](https://arxiv.org/abs/1812.04948) to evaluate how well a generator manages to smoothly interpolate between points in its latent space. In essence, if you travel between two points images produced by a generator on a straight line in the latent space, it measures the total "jarringness" of the interpolation when you add together the jarringness of each step. In this notebook, you'll walk through the motivation and mechanism behind PPL.
 
+The StyleGAN2 [[paper]](https://arxiv.org/abs/1912.04958) noted that metric also "correlates with consistency and stability of shapes," which led to one of the major changes between the two papers.
+
+
+
 
 # Some references
 Deconvolution and Checkerboard Artifacts (Odena et al., 2016) :  http://doi.org/10.23915/distill.00003
