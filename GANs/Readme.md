@@ -51,9 +51,14 @@ Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang,
 "The Fréchet distance between multivariate normal distributions" by Dowson and Landau (1982), https://core.ac.uk/reader/82269844
 
 ## Fréchet Inception Distance (FID)
+Fréchet Inception Distance (Jean, 2018): https://nealjean.com/ml/frechet-inception-distance/
+
+## Inception Score (IS)
 FID has overtaken Inception Score (IS)? This paper illustrates the problems with using Inception Score.
 
 A Note on the Inception Score (Barratt and Sharma, 2018): https://arxiv.org/abs/1801.01973
+
+GAN — How to measure GAN performance? (Hui, 2018): https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732
 
 ## Precison & Recall
 Improved Precision and Recall Metric for Assessing Generative Models (Kynkäänniemi, Karras, Laine, Lehtinen, and Aila, 2019): https://arxiv.org/abs/1904.06991
