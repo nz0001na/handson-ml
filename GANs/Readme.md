@@ -27,7 +27,7 @@ As a result, spectral normalization helps improve stability and avoid vanishing 
 ## Conditional GAN
 Conditional Generative Adversarial Nets(Mirza and Osindero, 2014) [[paper]](https://arxiv.org/abs/1411.1784)
 
-# InfoGAN
+## InfoGAN
 to generate disentangled outputs, based on the paper:
 
 InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets 
