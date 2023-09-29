@@ -24,7 +24,7 @@ As its name suggests, SN-GAN normalizes the weight matrices in the discriminator
 
 As a result, spectral normalization helps improve stability and avoid vanishing gradient problems, such as mode collapse.
 
-
+## Conditional GAN
 
 
 
