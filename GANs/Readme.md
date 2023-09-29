@@ -30,3 +30,15 @@ As a result, spectral normalization helps improve stability and avoid vanishing 
 
 # Some references
 Deconvolution and Checkerboard Artifacts (Odena et al., 2016) :  http://doi.org/10.23915/distill.00003
+
+Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017): https://arxiv.org/abs/1701.07875
+
+Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.org/abs/1704.00028
+
+MNIST Database: http://yann.lecun.com/exdb/mnist/
+
+
+
+
+
+
