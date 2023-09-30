@@ -134,7 +134,7 @@ Does Object Recognition Work for Everyone? (DeVries, Misra, Wang, and van der Ma
 
 What a machine learning tool that turns Obama white can (and can't) tell us about AI bias (Vincent, 2020): https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias
 
-
+Fair Attribute Classification through Latent Space De-biasing [[project]](https://princetonvisualai.github.io/gan-debiasing/). Vikram V. Ramaswamy, Sunnie S. Y. Kim, Olga Russakovsky. CVPR 2021.
 
 
 
