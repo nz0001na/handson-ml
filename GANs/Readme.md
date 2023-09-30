@@ -42,6 +42,12 @@ controlling GAN generations using latent space
 
 Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020) [[paper]](https://arxiv.org/abs/1907.10786)
 
+## 3D GAN
+In this notebook, you'll learn how to use Neural Radiance Fields to generate new views of a complex 3D scene using only a couple input views, first proposed by NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+ (Mildenhall et al. 2020) [[paper]](https://arxiv.org/abs/2003.08934). Though 2D GANs have seen success in high-resolution image synthesis, NeRF has quickly become a popular technique to enable high-resolution 3D-aware GANs.
+
+
+
 
 # Evaluation
 ##  Fréchet distance
@@ -135,6 +141,7 @@ Does Object Recognition Work for Everyone? (DeVries, Misra, Wang, and van der Ma
 What a machine learning tool that turns Obama white can (and can't) tell us about AI bias (Vincent, 2020): https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias
 
 Fair Attribute Classification through Latent Space De-biasing [[project]](https://princetonvisualai.github.io/gan-debiasing/). Vikram V. Ramaswamy, Sunnie S. Y. Kim, Olga Russakovsky. CVPR 2021.
+
 
 
 
