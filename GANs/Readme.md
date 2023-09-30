@@ -124,6 +124,9 @@ Fairness Definitions Explained (Verma and Rubin, 2018): https://fairware.cs.umas
 
 Machine Learning Glossary: Fairness (2020): https://developers.google.com/machine-learning/glossary/fairness
 
+A Survey on Bias and Fairness in Machine Learning (Mehrabi, Morstatter, Saxena, Lerman, and Galstyan, 2019): https://arxiv.org/abs/1908.09635
+
+
 
 
 
