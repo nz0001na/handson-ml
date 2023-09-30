@@ -116,6 +116,14 @@ intrigued about human evaluation and HYPE (Human eYe Perceptual Evaluation) of G
 
 HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models (Zhou et al., 2019): https://arxiv.org/abs/1904.01121
 
+# Fairness Definitions
+
+To understand some of the existing definitions of fairness and their relationships, please read the following paper and view the Google glossary entry for fairness: 
+
+Fairness Definitions Explained (Verma and Rubin, 2018): https://fairware.cs.umass.edu/papers/Verma.pdf
+
+Machine Learning Glossary: Fairness (2020): https://developers.google.com/machine-learning/glossary/fairness
+
 
 
 
