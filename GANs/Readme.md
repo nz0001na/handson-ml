@@ -56,7 +56,15 @@ GAN — StyleGAN & StyleGAN2 (Hui, 2020): https://medium.com/@jonathan_hui/gan-s
 ## StyleGAN2
 StyleGAN2, from the paper: Analyzing and Improving the Image Quality of StyleGAN (Karras et al., 2019), https://arxiv.org/abs/1912.04958
 
+## BigGAN
+the first large-scale GAN architecture proposed in Large Scale GAN Training for High Fidelity Natural Image Synthesis
+ (Brock et al. 2019), https://arxiv.org/abs/1809.11096. 
+ 
+ BigGAN performs a conditional generation task, so unlike StyleGAN, it conditions on a certain class to generate results. 
+ 
+ BigGAN is based mainly on empirical results and shows extremely good results when trained on ImageNet and its 1000 classes.
 
+ 
 ## MSG-GAN
 MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks(Karnewar and Wang 2019) [[paper]](https://arxiv.org/abs/1903.06048) , proposed a somewhat natural approach: generate all resolutions of images, but also directly pass each corresponding resolution to a block of the discriminator responsible for dealing with that resolution. 
 
