@@ -46,7 +46,14 @@ Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang,
 In this notebook, you'll learn how to use Neural Radiance Fields to generate new views of a complex 3D scene using only a couple input views, first proposed by NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
  (Mildenhall et al. 2020) [[paper]](https://arxiv.org/abs/2003.08934). Though 2D GANs have seen success in high-resolution image synthesis, NeRF has quickly become a popular technique to enable high-resolution 3D-aware GANs.
 
+## StyleGAN
 
+## StyleGAN2
+StyleGAN2, from the paper: Analyzing and Improving the Image Quality of StyleGAN (Karras et al., 2019), https://arxiv.org/abs/1912.04958
+
+
+## MSG-GAN
+MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks(Karnewar and Wang 2019) [[paper]](https://arxiv.org/abs/1903.06048) , proposed a somewhat natural approach: generate all resolutions of images, but also directly pass each corresponding resolution to a block of the discriminator responsible for dealing with that resolution. 
 
 
 # Evaluation
