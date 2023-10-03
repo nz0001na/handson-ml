@@ -68,6 +68,14 @@ the first large-scale GAN architecture proposed in Large Scale GAN Training for 
 ## MSG-GAN
 MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks(Karnewar and Wang 2019) [[paper]](https://arxiv.org/abs/1903.06048) , proposed a somewhat natural approach: generate all resolutions of images, but also directly pass each corresponding resolution to a block of the discriminator responsible for dealing with that resolution. 
 
+## GTN
+Generative Teaching Network (GTN), first introduced in Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data (Such et al. 2019), https://arxiv.org/abs/1912.07768. Essentially, a GTN is composed of a generator (i.e. teacher), which produces synthetic data, and a student, which is trained on this data for some task. The key difference between GTNs and GANs is that GTN models work cooperatively (as opposed to adversarially).
+
+
+
+
+
+
 
 # Evaluation
 ##  Fréchet distance
