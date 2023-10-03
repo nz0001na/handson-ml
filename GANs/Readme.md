@@ -109,7 +109,8 @@ Machine Bias (Angwin, Larson, Mattu, and Kirchner, 2016): https://www.propublica
 * ImageNet: http://www.image-net.org/
 
 
-
+# Data Augmentation
+RandAugment: Practical automated data augmentation with a reduced search space (Cubuk, Zoph, Shlens, and Le, 2019): https://arxiv.org/abs/1909.13719
 
 
 
