@@ -103,6 +103,8 @@ Patch-Based Image Inpainting with Generative Adversarial Networks (Demir and Una
 synthesizes high-resolution images from semantic label maps. GauGAN is based around a special denormalization technique proposed in:
 Semantic Image Synthesis with Spatially-Adaptive Normalization (https://arxiv.org/abs/1903.07291).
 
+## CycleGAN
+a generative model based on the paper Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks by Zhu et al. 2017, https://arxiv.org/abs/1703.10593, commonly referred to as CycleGAN.
 
 # Evaluation
 ##  Fréchet distance
