@@ -106,6 +106,11 @@ Semantic Image Synthesis with Spatially-Adaptive Normalization (https://arxiv.or
 ## CycleGAN
 a generative model based on the paper Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks by Zhu et al. 2017, https://arxiv.org/abs/1703.10593, commonly referred to as CycleGAN.
 
+Intrigued by the application of CycleGANs in the medical field, it be used to help augment data for medical imaging!
+
+Data augmentation using generative adversarial networks (CycleGAN) to improve generalizability in CT segmentation tasks (Sandfort, Yan, Pickhardt, and Summers, 2019): https://www.nature.com/articles/s41598-019-52737-x.pdf
+
+
 # Evaluation
 ##  Fréchet distance
 "The Fréchet distance between multivariate normal distributions" by Dowson and Landau (1982), https://core.ac.uk/reader/82269844
