@@ -84,6 +84,17 @@ Concerned about distinguishing between real images and fake GAN generated images
 
 Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints (Yu, Davis, and Fritz, 2019): https://arxiv.org/abs/1811.08180
 
+## Pix2Pix
+Image-to-Image Translation with Conditional Adversarial Networks by Isola et al. 2017, https://arxiv.org/abs/1611.07004
+
+
+
+
+
+
+
+
+
 
 # Evaluation
 ##  Fréchet distance
