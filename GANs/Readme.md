@@ -85,8 +85,13 @@ Concerned about distinguishing between real images and fake GAN generated images
 Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints (Yu, Davis, and Fritz, 2019): https://arxiv.org/abs/1811.08180
 
 ## Pix2Pix
-Image-to-Image Translation with Conditional Adversarial Networks by Isola et al. 2017, https://arxiv.org/abs/1611.07004
+image-to-image translation and the research behind the components of Pix2Pix:
 
+Image-to-Image Translation with Conditional Adversarial Networks (Isola, Zhu, Zhou, and Efros, 2018): https://arxiv.org/abs/1611.07004
+
+## Pix2PixHD
+synthesizes high-resolution images from semantic label maps, https://arxiv.org/abs/1711.11585
+Proposed in High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (Wang et al. 2018), Pix2PixHD improves upon Pix2Pix via multiscale architecture, improved adversarial loss, and instance maps.
 
 
 
