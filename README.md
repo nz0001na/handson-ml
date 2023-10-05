@@ -14,3 +14,6 @@ envrionment:
 * Anaconda3
 * Tensorflow
 * PyTorch
+
+# related github
+[coursea] https://github.com/y33-j3T/Coursera-Deep-Learning
