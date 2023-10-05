@@ -16,4 +16,4 @@ envrionment:
 * PyTorch
 
 # related github
-[coursea] https://github.com/y33-j3T/Coursera-Deep-Learning
+[coursera] https://github.com/y33-j3T/Coursera-Deep-Learning
