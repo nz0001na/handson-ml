@@ -4,7 +4,7 @@ practice hands-on machine learning
 2. unsupervised learning
 3. deep learning
 4. CNN
-5. GANs
+5. GANs: [[github]](https://github.com/Sachin-Wani/deeplearning.ai-GANs-Specialization/tree/master/Course%201%20-%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs))
 6. Transformers
 7. Python
 
